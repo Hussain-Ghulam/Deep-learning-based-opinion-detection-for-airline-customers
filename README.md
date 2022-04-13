@@ -1,2 +1,2 @@
-# Deep-learning-based-opinion-detection-for-airline-customers
-In this code we incorporated machine learning as well as deep leaning methods to predict the sentiments/opinion of  passenger for airline service.
+# US-Airlines-Sentiments-Analysis
+A machine learning and deep learning based model for US Airlines sentiments' analysis from related twitter tweets.
